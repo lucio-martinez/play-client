@@ -3,7 +3,7 @@
   "title": "Play Client",
   "description": "Web client to play your music remotelly",
   "version": "0.1.0",
-  "author": "Lucio Martíne",
+  "author": "Lucio Martínez",
   "main": "dist/index.html",
   "repository": {
     "type": "git",
